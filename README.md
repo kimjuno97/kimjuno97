@@ -19,7 +19,7 @@
 
  <br/>
 
-![JunHoKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuno97&show_icons=true&theme=dracula)
+![JunHoKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuno97&show_icons=true&theme=white)
 
 <br/>
 <br/>
