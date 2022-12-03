@@ -1,11 +1,11 @@
-## [Portfolio](https://kimjuno97.github.io/front-portfolio/)
+## <a Href='https://velog.io/@juno97' target="_blank">Portfolio</a>
 <br/>
 
 
 
 > ## Blog
 
-<a Href='https://velog.io/@juno97'>
+<a Href='https://velog.io/@juno97' target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&amp;logo=velog&amp;logoColor=white" style="max-width: 100%;">
 </a>
 <br/>
