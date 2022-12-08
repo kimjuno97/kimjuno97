@@ -1,7 +1,6 @@
 > ## [Portfolio](https://kimjuno97.github.io/front-portfolio/)
-<br/>
-
-
+>
+> <br/>
 
 > ## Blog
 
@@ -14,9 +13,10 @@
 
 > ### Skills
 
- <img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=javascript&logoColor=white" style="height:25px"/> <img src="https://img.shields.io/badge/React.js-58c3cc?style=flat-square&amp;logo=React&amp;logoColor=white" style="height:25px"/> <img src="https://img.shields.io/badge/-styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="height:25px"/>
- <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="height:25px">
-<!--  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" style="height:25px"> -->
+<img src="https://img.shields.io/badge/JavaScript-FFCA28?style=flat-square&logo=javascript&logoColor=white" style="height:25px"/> <img src="https://img.shields.io/badge/React.js-58c3cc?style=flat-square&amp;logo=React&amp;logoColor=white" style="height:25px"/> <img src="https://img.shields.io/badge/-styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" style="height:25px"/>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="height:25px">
+
+ <!-- <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" style="height:25px"> -->
 <br/>
 <br/>
 <br/>
@@ -32,9 +32,9 @@
 <br/>
 <br/>
 
+<!-- 
 > ### Lang
-
-<br/>
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjuno97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+커밋 잔디
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjuno97&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+ 
+![](./profile-3d-contrib/profile-green-animate.svg)
