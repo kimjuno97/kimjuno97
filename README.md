@@ -33,9 +33,11 @@
 <br/>
 <br/>
 
-<!-- 
+
 > ### Lang
-커밋 잔디
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjuno97&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<br/>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjuno97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-![](./profile-3d-contrib/profile-green-animate.svg)
+<!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
