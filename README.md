@@ -26,25 +26,24 @@
 > ### Github status
 
  <br/>
-
-![JunHoKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuno97&show_icons=true&theme=white)
-
-<br/>
-<br/>
-<br/>
-
 <a href="https://github.com/sw1104">
   <img height="180em" src="https://github-readme-stats-lac-beta.vercel.app/api?username=kimjuno97&show_icons=true&theme=gruvbox" />
 </a>
-<a href="https://github.com/sw1104">
-  <img height="180em" src="https://github-readme-stats-lac-beta.vercel.app/api/top-langs/?username=kimjuno97&layout=compact&theme=gruvbox" />
-</a>
+
+
+<br/>
+<br/>
+<br/>
+
+
+
 
 
 > ### Lang
 
 <br/>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjuno97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/sw1104">
+  <img height="180em" src="https://github-readme-stats-lac-beta.vercel.app/api/top-langs/?username=kimjuno97&layout=compact&theme=gruvbox" />
+</a>
  
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
