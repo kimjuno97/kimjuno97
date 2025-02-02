@@ -9,7 +9,3 @@
 - Graphql
 - Firebase
 - rive
-
-## 기여한 오픈소스
-- [react-catbow-scrollview](https://www.npmjs.com/package/react-catbow-scrollview)
-- [infinity_scroll_shell](https://pub.dev/packages/infinity_scroll_shell)
