@@ -63,8 +63,6 @@ flowchart LR
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![PortOne](https://img.shields.io/badge/PortOne-6B5CFF?style=for-the-badge&logo=creditcard&logoColor=white)
-![WebView](https://img.shields.io/badge/WebView-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 </div>
 
@@ -72,10 +70,10 @@ flowchart LR
 
 ## 🛰 Mission Logs
 
-- PortOne 결제 연동으로 실제 결제 흐름을 구현했습니다.
-- Socket.io 기반 실시간 채팅 기능을 다뤄봤습니다.
-- 레퍼런스가 부족한 레거시 본인인증 모듈을 WebView로 연동했습니다.
-- 바이브코딩과 AI 협업을 활용해 빠르게 프로토타입을 만들고 개선했습니다.
+- Node.js와 TypeScript를 중심으로 서버 구조를 설계하고 구현합니다.
+- Flutter와 React를 활용해 프론트엔드 화면과 상태 흐름을 다룹니다.
+- Firebase 기반 인증, 데이터, 스토리지 흐름을 구성합니다.
+- AI 협업을 활용해 빠르게 프로토타입을 만들고 개선합니다.
 
 ---
 
