@@ -79,27 +79,14 @@ flowchart LR
 
 ---
 
-## 📡 Signal From GitHub
+## 📡 Current Signal
 
-<div align="center">
-
-![Junho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjuno97&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F5D4&icon_color=FC00FF&text_color=E6EDF3)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjuno97&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F5D4&text_color=E6EDF3)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kimjuno97&theme=tokyonight&hide_border=true&background=00000000&ring=00F5D4&fire=FC00FF&currStreakLabel=00F5D4)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/kimjuno97/kimjuno97/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+```txt
+STATUS       Building with AI
+INTEREST     Full-stack prototyping
+FLOW         Problem -> Prototype -> Feedback -> Improve
+NEXT QUEST   더 빠르게 만들고, 더 선명하게 다듬기
+```
 
 ---
 
