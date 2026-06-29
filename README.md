@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00DBDE,50:7F00FF,100:FC00FF&text=KIM%20JUNHO&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=58&desc=AI-Collaborative%20Full-Stack%20Developer&descAlign=50&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00DBDE,50:7F00FF,100:FC00FF&text=KIM%20JUNHO&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=58&desc=Human-Centered%20AI%20Product%20Builder&descAlign=50&descAlignY=58&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=00F5D4&center=true&vCenter=true&width=900&lines=Initializing+AI-assisted+developer+profile...;Problem+%E2%86%92+Prototype+%E2%86%92+Feedback+%E2%86%92+Improve;I+build+faster+with+AI%2C+then+refine+like+a+human.)](https://git.io/typing-svg)
 
